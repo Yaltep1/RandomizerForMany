@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\RandomizerService\RandomizerHost\bin\Debug\RandomizerHost.exe.config
+C:\Users\User\source\repos\RandomizerService\RandomizerHost\bin\Debug\RandomizerHost.exe
+C:\Users\User\source\repos\RandomizerService\RandomizerHost\bin\Debug\RandomizerHost.pdb
+C:\Users\User\source\repos\RandomizerService\RandomizerHost\bin\Debug\RandomizerService.dll
+C:\Users\User\source\repos\RandomizerService\RandomizerHost\bin\Debug\RandomizerService.pdb
+C:\Users\User\source\repos\RandomizerService\RandomizerHost\bin\Debug\RandomizerService.dll.config
+C:\Users\User\source\repos\RandomizerService\RandomizerHost\obj\Debug\RandomizerHost.csprojAssemblyReference.cache
+C:\Users\User\source\repos\RandomizerService\RandomizerHost\obj\Debug\RandomizerHost.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RandomizerService\RandomizerHost\obj\Debug\RandomizerHost.csproj.CopyComplete
+C:\Users\User\source\repos\RandomizerService\RandomizerHost\obj\Debug\RandomizerHost.exe
+C:\Users\User\source\repos\RandomizerService\RandomizerHost\obj\Debug\RandomizerHost.pdb
+C:\Users\User\source\repos\RandomizerService\RandomizerHost\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\RandomizerService\RandomizerHost\bin\Debug\EntityFramework.xml

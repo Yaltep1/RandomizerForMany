@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\RandomizerClient\RandomizerClient\bin\Release\RandomizerClient.exe.config
+C:\Users\User\source\repos\RandomizerClient\RandomizerClient\bin\Release\RandomizerClient.exe
+C:\Users\User\source\repos\RandomizerClient\RandomizerClient\bin\Release\RandomizerClient.pdb
+C:\Users\User\source\repos\RandomizerClient\RandomizerClient\obj\Release\RandomizerClient.csprojAssemblyReference.cache
+C:\Users\User\source\repos\RandomizerClient\RandomizerClient\obj\Release\MainWindow.g.cs
+C:\Users\User\source\repos\RandomizerClient\RandomizerClient\obj\Release\App.g.cs
+C:\Users\User\source\repos\RandomizerClient\RandomizerClient\obj\Release\RandomizerClient_MarkupCompile.cache
+C:\Users\User\source\repos\RandomizerClient\RandomizerClient\obj\Release\RandomizerClient_MarkupCompile.lref
+C:\Users\User\source\repos\RandomizerClient\RandomizerClient\obj\Release\MainWindow.baml
+C:\Users\User\source\repos\RandomizerClient\RandomizerClient\obj\Release\RandomizerClient.g.resources
+C:\Users\User\source\repos\RandomizerClient\RandomizerClient\obj\Release\RandomizerClient.Properties.Resources.resources
+C:\Users\User\source\repos\RandomizerClient\RandomizerClient\obj\Release\RandomizerClient.csproj.GenerateResource.cache
+C:\Users\User\source\repos\RandomizerClient\RandomizerClient\obj\Release\RandomizerClient.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RandomizerClient\RandomizerClient\obj\Release\RandomizerClient.exe
+C:\Users\User\source\repos\RandomizerClient\RandomizerClient\obj\Release\RandomizerClient.pdb

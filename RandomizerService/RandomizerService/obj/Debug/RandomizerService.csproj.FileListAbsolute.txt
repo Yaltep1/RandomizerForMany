@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\RandomizerService\RandomizerService\bin\Debug\RandomizerService.dll.config
+C:\Users\User\source\repos\RandomizerService\RandomizerService\bin\Debug\RandomizerService.dll
+C:\Users\User\source\repos\RandomizerService\RandomizerService\bin\Debug\RandomizerService.pdb
+C:\Users\User\source\repos\RandomizerService\RandomizerService\obj\Debug\RandomizerService.csprojAssemblyReference.cache
+C:\Users\User\source\repos\RandomizerService\RandomizerService\obj\Debug\RandomizerService.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RandomizerService\RandomizerService\obj\Debug\RandomizerService.dll
+C:\Users\User\source\repos\RandomizerService\RandomizerService\obj\Debug\RandomizerService.pdb
+C:\Users\User\source\repos\RandomizerService\RandomizerService\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\RandomizerService\RandomizerService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\RandomizerService\RandomizerService\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\RandomizerService\RandomizerService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\RandomizerService\RandomizerService\obj\Debug\RandomizerService.csproj.CopyComplete
+C:\Users\User\source\repos\RandomizerService\RandomizerService\obj\Debug\RandomizerService.Migrations.MigrateDB.resources
+C:\Users\User\source\repos\RandomizerService\RandomizerService\obj\Debug\RandomizerService.csproj.GenerateResource.cache
